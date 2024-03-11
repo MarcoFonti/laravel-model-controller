@@ -15,7 +15,9 @@
 
     <!-- MAIN -->
     <main>
-        @yield('main-content')
+        <div class="container mt-3">
+            @yield('main-content')
+        </div>
     </main>
 
 </body>
