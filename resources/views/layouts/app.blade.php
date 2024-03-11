@@ -18,7 +18,5 @@
         @yield('main-content')
     </main>
 
-    <!-- FOOTER -->
-    @include('includes.footer')
 </body>
 </html>
